@@ -1,13 +1,13 @@
 {
   "posts": [
-    { "Coupon Code":"FEFE-YUEI-YNSG", "title": "The Goldfish","Discount": "50%"},
+    { "code":"FEFE-YUEI-YNSG", "title": "The Goldfish","Discount": "50%"},
      
-    { "id": 2, "title": "Twlight" },
-    { "id": 3, "title": "Milk" },
-    { "id": 4, "title": "Cookbook" },
-    { "id": 5, "title": "Notebook" },
-    { "id": 6, "title": "The Great" },
-    { "id": 7, "title": "The Week" },
-    { "id": 8, "title": "The Change" }
+    { "code": 2, "title": "Twlight" },
+    { "code": 3, "title": "Milk" },
+    { "code": 4, "title": "Cookbook" },
+    { "code": 5, "title": "Notebook" },
+    { "code": 6, "title": "The Great" },
+    { "code": 7, "title": "The Week" },
+    { "code": 8, "title": "The Change" }
   ]
 }
