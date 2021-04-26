@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "Coupon Code":"FEFE-YUEI-YNSG", "title": "The Goldfish","Discount": 50% },
+    { "Coupon Code":"FEFE-YUEI-YNSG", "title": "The Goldfish","Discount": "50%"},
      
     { "id": 2, "title": "Twlight" },
     { "id": 3, "title": "Milk" },
