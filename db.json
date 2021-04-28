@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "code":"8403988888", "title": "The Goldfish","Discount": "50% Off"},
-    { "code":"3584541104", "title": "The CookBook","Discount": "20% Off"},
+    { "code":"8403988888", "title": "The Goldfish", "Discount": "50% Off"},
+    { "code":"3584541104", "title": "The CookBook", "Discount": "20% Off"},
     { "code":"2563592301", "title": "The Good Book","Discount": "90% Off"},
-    { "code":"0819445029", "title": "Baggies","Discount": "50% Off"},
+    { "code":"0819445029", "title": "Baggies", "Discount": "50% Off"},
     { "code":"3110443911", "title": "The Test Book","Discount": "50% Off"},
     { "code":"6713339830", "title": "The Adventure","Discount": "50% Off"},
     { "code":"9966681632", "title": "The Discount","Discount": "50% Off"},
@@ -27,6 +27,6 @@
     { "code":"9905776301", "title": "Bottle","Discount": "50% Off"},
     { "code":"7723163354", "title": "The End","Discount": "50% Off"},
     { "code":"0262731094", "title": "The Start ","Discount": "50% Off"},
-    { "code":"5282071878", "title": "Changer","Discount": "50% Off"},
+    { "code":"5282071878", "title": "Changer","Discount": "50% Off"}
   ]
 }
